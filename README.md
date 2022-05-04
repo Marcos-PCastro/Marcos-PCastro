@@ -10,7 +10,7 @@ De poucos amores e infinitas paixões;
 
 <div align="center">
   <a href="https://github.com/Marcos-PCastro">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marcos-PCastro&show_icons=false&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marcos-PCastro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos-PCastro&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
@@ -18,6 +18,6 @@ De poucos amores e infinitas paixões;
 <div style="display: inline_block"><br>
   <i class="devicon-java-plain-wordmark colored"></i>
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
+
   
  
