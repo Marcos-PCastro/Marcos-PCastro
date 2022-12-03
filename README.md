@@ -2,7 +2,7 @@
 
 De poucos amores e infinitas paixões;
 
-- 🌱 Cursando Análise e Desenvolvimento de Sistemas Java;
+- 🌱 Cursando Análise e Desenvolvimento de Sistemas;
 - 📫 Onde me encontrar? é fácil: https://www.linkedin.com/in/marcos-paulo-824861164
                                  https://www.instagram.com/sr.cassanova/
                                  https://github.com/Marcos-PCastro
@@ -16,9 +16,12 @@ De poucos amores e infinitas paixões;
 </div>
 
 </div>
-<div style="display: inline_block"><br>
-  <i class="devicon-java-plain-wordmark colored"></i>
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+<div style="display: inline_block"><br> 
+<img align "center" alt="Marcos-c#" height="30" widht="40 "src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" >
+
+
+  </div>
+          
 
   
  
