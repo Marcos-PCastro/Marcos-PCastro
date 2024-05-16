@@ -3,8 +3,9 @@
 De poucos amores e infinitas paixões;
 
 
-- 📫 Onde me encontrar? é fácil: https://www.linkedin.com/in/marcos-paulo-824861164 </br>
-                                 https://www.instagram.com/0Panda.exe </br>
+- 📫 Onde me encontrar? é fácil: </br>
+https://www.linkedin.com/in/marcos-paulo-824861164 </br>
+https://www.instagram.com/0Panda.exe </br>
                                  
 
 - ⚡ Apaixonado por programação e pelo Dallas Cowboys, tudo na mesma proporção.
